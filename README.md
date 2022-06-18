@@ -46,7 +46,7 @@ If you find this work useful for your publications, please consider citing:
 1. Make sure you have python3 setup on your system
 2. Clone the repo
 ```
-git clone https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy
+git clone https://github.com/jagra26/Covid-Chestxray-lambda-fuzzy.git
 ```
 3. Install requirements
 ```

@@ -15,7 +15,7 @@ import warnings
 warnings.filterwarnings('always')
 warnings.filterwarnings('ignore')
 
-os.chdir(r"COVID_Xray/")
+os.chdir(r"../")
 
 train_dir="aug/"
 test_dir="test/"

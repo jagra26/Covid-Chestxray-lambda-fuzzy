@@ -3,5 +3,6 @@ pandas
 matplotlib
 seaborn
 opencv-python
-tensorflow
+tensorflow-gpu
+tensorflow-addons[tensorflow-gpu]
 kaggle==1.5.6

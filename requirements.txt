@@ -4,3 +4,4 @@ matplotlib
 seaborn
 opencv-python
 tensorflow
+kaggle==1.5.6
